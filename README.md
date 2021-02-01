@@ -18,7 +18,7 @@ Se crea un ejecutable .exe para poder instalar el programa en cualquier disposit
 Para obtener la aplicación contactame: tonyliendro@gmail.com
 
 ### Tecnologías usadas
-La aplicación está estructurada utilizando el lenguaje `Java`, se diseñó la interfaz con `Swing` y se gestiona la base de datos con `MySQL` 
+La aplicación está estructurada utilizando el lenguaje `Java`, se diseñó la interfaz con `Swing`, se gestiona la base de datos con `MySQL` y se realiza el reporte con `JasperReports`
 
 
 
